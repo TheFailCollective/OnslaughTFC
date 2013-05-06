@@ -1,7 +1,6 @@
-OnslaughTFC
-===========
+OnslaughTFC Post root linux attack kit
+======================================
 
-Post root linux attack kit
 
 How to run:
 ==========
