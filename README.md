@@ -3,10 +3,15 @@ OnslaughTFC
 
 Post root linux attack kit
 
-How to run
+How to run:
 ==========
 
-first compile
+
+first get onslaught.c
+---------------------
+    wget raw.github.com/TheFailCollective/OnslaughTFC/master/onslaugt.c
+
+then compile
 -------------
     gcc onslaught.c -o onslaught
     chmod +x onslaught
