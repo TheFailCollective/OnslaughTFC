@@ -8,11 +8,11 @@ How to run
 
 first compile
 -------------
-gcc onslaught.c -o onslaught
-chmod +x onslaught
+    gcc onslaught.c -o onslaught
+    chmod +x onslaught
 
 then run
 --------
-./onslaught
+    ./onslaught
 
-type "help" for a list of commands. 
+type help for a list of commands. 
